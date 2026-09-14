@@ -72,7 +72,7 @@ Antes de criar um novo estado, o programa verifica se a nova rainha entraria em 
 
 ```text
 .
-├── Código problema_rainha.py
+├── problema_rainha.py
 └── README.md
 ```
 
@@ -94,7 +94,7 @@ pip install aigyminsper
 No terminal, acesse a pasta do projeto e execute:
 
 ```bash
-python "Código problema_rainha.py"
+python problema_rainha.py
 ```
 
 O programa executará a Busca em Largura e a Busca em Profundidade para todas as dimensões entre 4 e 8.
